@@ -15,7 +15,7 @@ Bir mxn boyutunda oyun tahtası üzerinde farklı özelliklere sahip A, B, C, D 
 ## İçerik
 
 - [Açıklama](#açıklama)
-- [Features](#özellikler)
+- [Özellikler](#özellikler)
 - [Feedback](#feedback)
 
 
