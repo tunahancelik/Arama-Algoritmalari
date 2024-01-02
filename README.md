@@ -32,7 +32,5 @@ Altın Toplama Oyunu; mxn boyutlu bir dikdörtgen tahta üzerinde farklı özell
   <img src = "https://i.hizliresim.com/QxC8VY.png" width=350>
 </p>
 
-## Özellikler
-Özellikler bir rapor halinde pdf dosyası olarak hazırlanmıştır dosyayı incelemek için <a href="https://twitter.com/tunahanbeyy" target="_blank">tıklayınız.</a>
 
 ✨ [My Personal Web Page](https://tunahancelik.github.io)
